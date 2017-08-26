@@ -12,7 +12,6 @@ public class Test1 {
 	
 	public static int summation(int n)
 	{
-		System.out.println("summation");
 		int result= (n*(n+1))/2;
 		
 		return(result);
